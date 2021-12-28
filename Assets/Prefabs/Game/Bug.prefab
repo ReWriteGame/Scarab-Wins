@@ -323,7 +323,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-        - m_Target: {fileID: 11400000, guid: deb990b554715e844939ebc5b91df626, type: 2}
+        - m_Target: {fileID: 11400000, guid: 2cfa5a3115f91da46ad13c93ededdbde, type: 2}
           m_TargetAssemblyTypeName: VoidEventChannelSO, Assembly-CSharp
           m_MethodName: RaiseEvent
           m_Mode: 1

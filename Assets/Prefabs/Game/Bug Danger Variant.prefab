@@ -59,6 +59,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 08a091144269bb2498e4d8dacfdefd70, type: 3}
+    - target: {fileID: 5524172827472292926, guid: 92e062dacf314dc44902066627b6a125, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 11400000, guid: deb990b554715e844939ebc5b91df626, type: 2}
+    - target: {fileID: 5524172827472292926, guid: 92e062dacf314dc44902066627b6a125, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: RaiseEvent
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8653364774376097188, guid: 92e062dacf314dc44902066627b6a125, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 92e062dacf314dc44902066627b6a125, type: 3}
